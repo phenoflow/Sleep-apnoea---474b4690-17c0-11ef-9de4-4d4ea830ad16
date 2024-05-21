@@ -1,0 +1,15 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/apnoea---primary.py
+inputModule3:
+  class: File
+  path: python/sleep-apnoea---primary.py
+inputModule4:
+  class: File
+  path: python/obstructive-sleep-apnoea---primary.py
+inputModule5:
+  class: File
+  path: python/output-cases.py
